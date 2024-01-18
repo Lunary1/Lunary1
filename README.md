@@ -1,4 +1,4 @@
-### 👋 Hello, I'm [Your Name]!
+### 👋 Hello, I'm Felix!
 
 I'm a passionate full-stack developer with expertise in building modern web applications using Next.js (React) and Tailwind CSS. My journey in the coding world revolves around creating seamless user experiences by combining powerful front-end technologies with robust back-end solutions.
 
